@@ -7,12 +7,8 @@
         "id": "a76765809d420deb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "scrap.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +94,17 @@
     "width": 675.5,
     "collapsed": true
   },
-  "active": "a76765809d420deb",
+  "active": "577ffb6fed4a0229",
   "lastOpenFiles": [
+    "haskell-functions/sortBy.md",
+    "haskell-functions/T.dropAround.md",
+    "haskell-functions/T.toCaseFold.md",
+    "scrap.md",
     "get-programming-with-haskell/unit05/28 - Applicative/dist.hs-applicative.md",
     "get-programming-with-haskell/unit05/29 - deeper Applicative/29.md",
     "get-programming-with-haskell/unit03/19/19.md",
     "haskell-first-principles/18/18.md",
     "haskell-first-principles/12/12.md",
-    "gentle-intro-to-haskell-98/ch04.md",
-    "glasgow-fp-in-haskell/4.md",
-    "scrap.md",
-    "haskell-in-depth/genSql.md",
-    "haskell-glossary/functions/mempty/mempty.md"
+    "gentle-intro-to-haskell-98/ch04.md"
   ]
 }
