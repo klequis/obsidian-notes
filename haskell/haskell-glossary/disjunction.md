@@ -1,0 +1,6 @@
+# #disjunction
+
+- `(||)` - "or"
+
+
+![[disjunction.png]]

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "d223569442adad38",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0694a431269418b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "glossary-math/algebra.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77ac6c4715eb7826",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccc41e2454c730ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c820a4b04af41e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1ab58a993ac8960",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "associativ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "feb91e064c8795fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a1f328e5b0f60fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04038615eb451548",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "glossary-math/algebra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c0694a431269418b",
+  "lastOpenFiles": [
+    "glossary-math/commutative-property.md",
+    "glossary-math/associative-property.md",
+    "math/set-and-Set.md",
+    "glossary-math/operator-associativity.md",
+    "category-theory-for-programmers/ch-03.md",
+    "category-theory-for-programmers/ch-02.md",
+    "category-theory-for-programmers/ch-01.md",
+    "math/communtative-property.md",
+    "glossary-math/distributive-property.md",
+    "math/_latex.md"
+  ]
+}

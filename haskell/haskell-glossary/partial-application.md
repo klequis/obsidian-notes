@@ -1,0 +1,4 @@
+# #partial-application
+
+>[!WARNING] EMPTY
+

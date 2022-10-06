@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "11f9eb78c5a3305c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a76765809d420deb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "record-syntax.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f7a459f187f5d88",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f16de452b30533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "577ffb6fed4a0229",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0f805c7c80fca88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "either",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "right": {
+    "id": "f318bfc51d3b106f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a205a159ceeaeb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e044046902cf40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "record-syntax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e378e12d51df158a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 675.5,
+    "collapsed": true
+  },
+  "active": "577ffb6fed4a0229",
+  "lastOpenFiles": [
+    "strictness.md",
+    "monoid.md",
+    "semigroup.md",
+    "internal-binary-operation.md",
+    "disjunction.md",
+    "cartesian-product.md",
+    "cardinality.md",
+    "applicative.md",
+    "algebraic-datatypes.md",
+    "sum-and-product-types.md"
+  ]
+}
