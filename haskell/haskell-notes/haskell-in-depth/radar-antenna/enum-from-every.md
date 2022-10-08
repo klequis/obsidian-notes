@@ -1,8 +1,9 @@
 # enumFromEvery
 
 - **[Code](https://github.com/klequis/hid-links/blob/main/ch02/radar-antenna/radarOnly/enumFromEvery.hs)**
+- HID p.25
 
-
+---
 
 I found this code very interesting
 ```haskell

@@ -1,3 +1,10 @@
+# ?: Why do the type for `rotateMany` and `rm1` differ?
+
+## Conclusions
+- It seems that a function that type inference flags as having an ambiguous type can be clarified such that there is no longer an ambiguous type by having a function that calls it.
+- Some of this isn't worth spending the time on now
+
+## Analysis
 
 **(A1)** If I have
 ```haskell

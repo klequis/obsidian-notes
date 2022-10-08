@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "haskell-in-depth/radar-antenna/enum-from-every.md",
+            "file": "haskell-in-depth/radar-antenna/rotateMany.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haskell-in-depth/radar-antenna/enum-from-every.md",
+                "file": "haskell-in-depth/radar-antenna/rotateMany.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,10 @@
     "width": 675.5,
     "collapsed": true
   },
-  "active": "a76765809d420deb",
+  "active": "577ffb6fed4a0229",
   "lastOpenFiles": [
-    "haskell-in-depth/radar-antenna/radar.md",
+    "haskell-in-depth/radar-antenna/enum-from-every.md",
+    "haskell-in-depth/radar-antenna/rotateMany.md",
     "z-REVIEW/hpffp.ch16/20220920.can't-do-this.md",
     "z-REVIEW/hpffp.ch16/20220915.07-laws-of-functor.md",
     "z-REVIEW/hpffp.ch16/20220915.06.md",
@@ -109,7 +110,6 @@
     "z-REVIEW/hpffp.ch16/20220915.03.the-function-type.md",
     "z-REVIEW/hpffp.ch16/20220915.02-XTypeApplications.md",
     "z-REVIEW/hpffp.ch16/20220915.01.md",
-    "packages/fmt.md",
-    "haskell-apps/haskell-apps.md"
+    "packages/fmt.md"
   ]
 }
