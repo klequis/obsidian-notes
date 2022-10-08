@@ -7,8 +7,12 @@
         "id": "a76765809d420deb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "haskell-in-depth/radar-antenna/enum-from-every.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "either",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "haskell-in-depth/radar-antenna/enum-from-every.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +99,17 @@
     "width": 675.5,
     "collapsed": true
   },
-  "active": "577ffb6fed4a0229",
+  "active": "a76765809d420deb",
   "lastOpenFiles": [
-    "haskell-functions/sortBy.md",
-    "haskell-functions/T.dropAround.md",
-    "haskell-functions/T.toCaseFold.md",
-    "scrap.md",
-    "get-programming-with-haskell/unit05/28 - Applicative/dist.hs-applicative.md",
-    "get-programming-with-haskell/unit05/29 - deeper Applicative/29.md",
-    "get-programming-with-haskell/unit03/19/19.md",
-    "haskell-first-principles/18/18.md",
-    "haskell-first-principles/12/12.md",
-    "gentle-intro-to-haskell-98/ch04.md"
+    "haskell-in-depth/radar-antenna/radar.md",
+    "z-REVIEW/hpffp.ch16/20220920.can't-do-this.md",
+    "z-REVIEW/hpffp.ch16/20220915.07-laws-of-functor.md",
+    "z-REVIEW/hpffp.ch16/20220915.06.md",
+    "z-REVIEW/hpffp.ch16/20220915.04.md",
+    "z-REVIEW/hpffp.ch16/20220915.03.the-function-type.md",
+    "z-REVIEW/hpffp.ch16/20220915.02-XTypeApplications.md",
+    "z-REVIEW/hpffp.ch16/20220915.01.md",
+    "packages/fmt.md",
+    "haskell-apps/haskell-apps.md"
   ]
 }

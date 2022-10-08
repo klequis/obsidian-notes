@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "record-syntax.md",
+            "file": "semigroup.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "50147cc55b98d015",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "monoid.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "f318bfc51d3b106f",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "record-syntax.md",
+                "file": "semigroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +112,17 @@
     "width": 675.5,
     "collapsed": true
   },
-  "active": "577ffb6fed4a0229",
+  "active": "a76765809d420deb",
   "lastOpenFiles": [
-    "strictness.md",
     "monoid.md",
     "semigroup.md",
+    "record-syntax.md",
+    "strictness.md",
     "internal-binary-operation.md",
     "disjunction.md",
     "cartesian-product.md",
     "cardinality.md",
     "applicative.md",
-    "algebraic-datatypes.md",
-    "sum-and-product-types.md"
+    "algebraic-datatypes.md"
   ]
 }
