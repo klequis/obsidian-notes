@@ -1,5 +1,6 @@
 # #functor
 - The Functor type class allows you to perform computation inside a *container* such as `List` or a *context* such as `Maybe` and `IO`.
+- `Functor` abstracts mapping over some value in a computational context *(HID p.52)*.
 - It provides a generic interface for applying functions to values in a container or context.
 - One way to think of the Functor type class is as **“things that can be mapped over.”**
 - Provides the ability to transform a value within a container, including changing its type.

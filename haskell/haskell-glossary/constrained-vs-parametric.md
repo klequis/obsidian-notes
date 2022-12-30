@@ -6,6 +6,8 @@ Haskell has *two types of polymorphism*:
 - **parametric polymorphism**
       - refers to type variables, or parameters, that are fully polymorphic. (no type class constraints).
 - **constrained polymorphism**
-      - Often called *ad-hoc polymorphism*
+      - Often called ***ad-hoc polymorphism***
+      - Also know as ***overloading***
       - Is implemented with *type classes* ("type class constraints")
       - 
+n

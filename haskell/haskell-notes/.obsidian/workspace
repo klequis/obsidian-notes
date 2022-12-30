@@ -7,11 +7,9 @@
         "id": "a76765809d420deb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "haskell-in-depth/radar-antenna/rotateMany.md",
-            "mode": "source",
-            "source": false
+            "file": "haskell-in-depth/ch02/Pasted image 20221014121309.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haskell-in-depth/radar-antenna/rotateMany.md",
+                "file": "haskell-in-depth/ch02/Pasted image 20221014121309.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +97,17 @@
     "width": 675.5,
     "collapsed": true
   },
-  "active": "577ffb6fed4a0229",
+  "active": "a76765809d420deb",
   "lastOpenFiles": [
+    "haskell-in-depth/ch02/issues-with-numbers-and-text.md",
+    "haskell-in-depth/ch02/Pasted image 20221014121309.png",
+    "book-of-monads/cho1/state-contexts.md",
+    "book-of-monads/cho1/ch0.md",
     "haskell-in-depth/radar-antenna/enum-from-every.md",
-    "haskell-in-depth/radar-antenna/rotateMany.md",
-    "z-REVIEW/hpffp.ch16/20220920.can't-do-this.md",
-    "z-REVIEW/hpffp.ch16/20220915.07-laws-of-functor.md",
-    "z-REVIEW/hpffp.ch16/20220915.06.md",
-    "z-REVIEW/hpffp.ch16/20220915.04.md",
-    "z-REVIEW/hpffp.ch16/20220915.03.the-function-type.md",
-    "z-REVIEW/hpffp.ch16/20220915.02-XTypeApplications.md",
-    "z-REVIEW/hpffp.ch16/20220915.01.md",
-    "packages/fmt.md"
+    "code-examples/enumerating-types.md",
+    "code-examples/make-enum-types.md",
+    "functions/enumeratin.md",
+    "functions/maxAndMinBound.md",
+    "haskell-in-depth/radar-antenna/rotateMany-rotate-CyclicEnum.md"
   ]
 }

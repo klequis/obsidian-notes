@@ -1,5 +1,12 @@
 # ?: Why do the type for `rotateMany` and `rm1` differ?
 
+- **[Code](https://github.com/klequis/hid-links/blob/main/ch02/radar-antenna/single-files/rotateMany.hs)**
+- HID p. 25
+
+---
+
+This is not about how the `rotateMany` function works. It is about the difference between how type inference works in `rotateMany` ,which is point free, vs `rm1` which has explicit parameters.
+
 ## Conclusions
 - It seems that a function that type inference flags as having an ambiguous type can be clarified such that there is no longer an ambiguous type by having a function that calls it.
 - Some of this isn't worth spending the time on now

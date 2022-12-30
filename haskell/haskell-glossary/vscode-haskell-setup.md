@@ -20,13 +20,13 @@ May also need
   - zlib1g-dev - already installed
 
 ## 1. build-essential packages
-![[Pasted image 20220715091130.png]]
+![[images/Pasted image 20220715091130.png]]
 ## 2. Install curl
 - done
 
 ## 3. Install other prerequisites
 
-![[Pasted image 20220715091811.png]]
+![[images/Pasted image 20220715091811.png]]
 
 ## 4. Install GHC, cabal-install and haskell-language-server via [GHCup](https://www.haskell.org/ghcup/)
 

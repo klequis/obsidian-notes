@@ -5,6 +5,60 @@
 
 ---
 
+>One day after writing the [[#The Older Stuff (below)]] I got a new perspective on this. My previous confusion seems very silly to me now.
+
+ If you look at the function `every`
+
+```haskell
+every :: (Enum a, Bounded a) => [a]
+every = enumFrom minBound
+```
+
+It is nothing more than `enumFrom minBound`, or the `minBound` of some type.
+
+In the code below type inference figures out the answer to "`every` what?", concludes it is `Turn` and uses that type with `every`.
+
+You can write this:
+
+```haskell
+> enumFrom minBound :: [Turn]
+[TNone,TLeft,TRight,TAround]
+```
+
+`(A)` You can use:
+
+```haskell
+aa :: [Direction]
+aa = map id every
+```
+
+`(B)`Which is the same as:
+
+```haskell
+bb :: [Direction]
+bb = id every
+```
+
+`(C)`And the same as:
+
+```haskell
+cc :: [Direction]
+cc = every
+```
+
+But none of the above `(A)`, `(B)` or `(C)`  examples will work without a type signature.
+
+```haskell
+ff = map id every
+-- "Ambiguous type variable"
+```
+
+--- 
+
+## The Older Stuff
+
+> This may still be interesting but see above for clarification/correctness.
+
 I found this code very interesting
 ```haskell
 class (Eq a, Enum a, Bounded a) => CyclicEnum a where

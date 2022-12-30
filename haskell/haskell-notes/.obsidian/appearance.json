@@ -1,4 +1,5 @@
 {
   "baseFontSize": 30,
-  "cssTheme": "Behave dark"
+  "cssTheme": "Behave dark",
+  "accentColor": ""
 }

@@ -1,4 +1,4 @@
-# #parametricity 
+# #parametricity, #parametric
 
 Parametricity is the property we get from having parametric polymorphism. Parametricity means that the behavior of a function with respect to the types of its (parametrically polymorphic) arguments is uniform. The behavior cannot change just because it was applied to an argument of a different type.
 

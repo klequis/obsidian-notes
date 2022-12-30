@@ -1,4 +1,5 @@
-# #monoid 
+#monoid 
+
 ```haskell
 class Semigroup a => Monoid a where
 

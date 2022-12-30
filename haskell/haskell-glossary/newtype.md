@@ -22,5 +22,7 @@ instance TooMany Goats where
 
 `Goats` is an `Int` but it has a `tooMany`  method that `Int` does not.
 
-
+ > A `newtype` is merely a way to direct the compiler to choose the correct instance. (Book of Moands p.8)
+ 
+ 
 

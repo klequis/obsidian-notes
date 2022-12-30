@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "f0ce2a2dbe1b7fcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf15ccea9b1c05f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c45c4c26196dce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "504c3d1280f5107d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6cad66afbddea7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ihp/first-try.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edb475a6e2b05828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16936e51ffbdb06f",
+    "type": "split",
+    "children": [
+      {
+        "id": "469494647b587a1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "893055bf2d90985a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7905a46a3a0c2b8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e78c01ad2ca85baa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bde16523b1e92c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "309e4b038f84c43a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebd11419f02d9b9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ihp/first-try.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10bbdb55c607ac6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ihp/first-try.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7012b3bd81fb1441",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6c6060ae1ee7374",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ihp/first-try.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6cad66afbddea7f",
+  "lastOpenFiles": [
+    "installation.md",
+    "Install Nix Package Manager.md",
+    "ihp/first-try.md"
+  ]
+}

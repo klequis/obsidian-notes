@@ -1,9 +1,20 @@
 # #applicative
 
+```haskell
+type Applicative :: (* -> *) -> Constraint
+
+class Functor f => Applicative f where
+  pure  :: a -> f a
+  (<*>) :: f (a -> b) -> f a -> f b
+  (*>)  :: f a -> f b -> f b
+  (<*)  :: f a -> f b -> f a
+```
+
 - The `Applicative` type class extends the power of `Functor` by allowing the use of functions that are themselves in context.
 - To say the same thing: The Applicative type class allows you to use functions that are inside a context, such as Maybe or IO. 
 - To say the same thing again: `Applicative` generalizes `Functor`’s `fmap` to work with multiple arguments.
 - That in turn allows you to chain together long sequences of computations such as `IO` or `Maybe`.
+- `Applicative` enables *injecting* values into a context and applying a function in a context to a value in a context *(HID p.52)*.
 
 **The limitation of `Functor`**
 - The limitation of `Functor` is that it only works with one argument functions. (and remember, all functions in Haskell take only one argument)
@@ -17,7 +28,7 @@
 
 `(<*>) :: f (a -> b) -> f a -> f b`
 
-"app takes a function inside a functor and a value inside a function and returns a transformed value inside of the same type of functor."
+"app takes a function inside a functor and a value inside a functor and returns a transformed value inside of the same type of functor."
 
 ## Method: `pure`
 
@@ -41,7 +52,7 @@ Just 6
 (<$>) :: Functor     f ::   (a -> b) -> f a -> f b
 (<*>) :: Applicative f :: f (a -> b) -> f a -> f b
 ```
-As you can see, there is one difference which is `<*>` has the fist parameter, i.e., the function `(a -> b)` in a context where `<$>` does not.
+As you can see, there is one difference which is `<*>` has the first parameter, i.e., the function `(a -> b)` in a context where `<$>` does not.
 
 ## What does the type signature say to me?
 
@@ -214,6 +225,11 @@ is
 (1 + 2)
 ```
 In which case associativity appears to be even irrelevant than it was in the first example as there is only one possible order of evaluation.
+
+
+
+---
+
 
 
 
